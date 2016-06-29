@@ -1,6 +1,7 @@
+[![Build Status](https://travis-ci.org/misfitdavidl/android-testing.svg?branch=master)](https://travis-ci.org/misfitdavidl/android-testing)
 # Android Testing Codelab
 
-This folder contains the source code for the Android testing codelab. It gives an introduction into testing on Android, including unit tests and UI tests. 
+This folder contains the source code for the Android testing codelab. It gives an introduction into testing on Android, including unit tests and UI tests.
 
 ### Getting Started
 
